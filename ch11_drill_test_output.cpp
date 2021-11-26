@@ -1,10 +1,9 @@
 #include "../text_lib/std_lib_facilities.h"
 
-// This pretty much is a redo of all of the try-this's from the chapter
 
 int main()
 try {
-    int birth_year = 1979;
+    int birth_year = 2001;
 
     cout << "decimal\t\t" << birth_year << '\n' << hex
          << "hexadecimal\t" << birth_year << '\n' << oct
